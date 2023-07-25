@@ -1,0 +1,23 @@
+.navbar {
+    background-color: aquamarine;
+}
+
+#current-btn {
+    background-color: rgb(187, 228, 188);
+}
+
+#favorites-btn {
+    background-color: rgb(187, 228, 188);
+}
+
+#list-btn {
+    background-color: rgb(187, 228, 188);
+}
+
+.menu {
+    margin-left: -30px;
+}
+
+.content {
+    margin-left: 120px;
+}
