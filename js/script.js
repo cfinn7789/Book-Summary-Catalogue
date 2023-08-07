@@ -19,3 +19,5 @@ $( "#favorites-btn" ).on("click", function(event) {
 // Create book title table
 // Create favorites table
 // Create current reads table
+
+// Consider a Model-View-Controller for the structurally consistent pages
