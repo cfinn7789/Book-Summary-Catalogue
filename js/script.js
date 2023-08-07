@@ -16,3 +16,6 @@ $( "#favorites-btn" ).on("click", function(event) {
 // Add author information to a database so that only one html is needed to display all authors
 
 // Create an authors_db
+// Create book title table
+// Create favorites table
+// Create current reads table
