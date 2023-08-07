@@ -7,8 +7,10 @@ $( "#favorites-btn" ).on("click", function(event) {
 }); // Clicking the button takes you to the favorites page
 
 
-// To Do: Research Google Cloud for storing book summaries
-// Add API calls to retrieve the information
+// To Do: 
+// Install npms express, mysql, and sequelize
+// Research Google Cloud for storing book summaries
+// Add API calls to retrieve the information (localhost and google)
 // Add back button when summaries are displayed
 // Add CSS and update page structure
 // Add author information to a database so that only one html is needed to display all authors
