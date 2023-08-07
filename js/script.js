@@ -7,4 +7,10 @@ $( "#favorites-btn" ).on("click", function(event) {
 }); // Clicking the button takes you to the favorites page
 
 
-// To Do: Learn how to create an API so that the summaries can be called when needed (reduces load on page)
+// To Do: Research Google Cloud for storing book summaries
+// Add API calls to retrieve the information
+// Add back button when summaries are displayed
+// Add CSS and update page structure
+// Add author information to a database so that only one html is needed to display all authors
+
+// Create an authors_db
